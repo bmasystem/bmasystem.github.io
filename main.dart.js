@@ -8983,6 +8983,7 @@ _.fx=p
 _.go=!1
 _.id=!0
 _.k1=!1
+_.k3=!0
 _.c=_.a=null},
 aAs:function aAs(a,b){this.a=a
 this.b=b},
@@ -50617,6 +50618,8 @@ while(true)switch(s){case 0:p=A
 s=2
 return A.j(q.d.ab("bma_proyek").c7().aN("id",q.a.c).OC(0),$async$Aa)
 case 2:q.H(new p.aAs(q,b))
+if(J.d(q.fx.h(0,"status_pengerjaan"),"Draft")||J.d(q.fx.h(0,"status_pengerjaan"),"Rejected"))q.k3=!0
+else q.k3=!1
 return A.n(null,r)}})
 return A.o($async$Aa,r)},
 vP(){return this.aiR()},
@@ -50832,7 +50835,7 @@ s=A.i(s==null?"":s)
 r=o.fx.h(0,"no_proyek")
 q=t.p
 r=A.b([A.I("RAB "+s+" - "+A.i(r==null?"":r),n,n,n,n,A.an(n,n,B.e,n,n,n,n,n,n,n,n,20,n,n,B.M,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.ax(n,4,n)],q)
-if(o.k1)r.push(A.da(B.Kk,B.a0N,new A.aBt(o),A.c5(n,n,B.A,n,n,n,n,n,n,B.n,n,n,B.cD,n,new A.be(A.aH(8),B.p),n,n,n,n)))
+if(o.k1&&o.k3)r.push(A.da(B.Kk,B.a0N,new A.aBt(o),A.c5(n,n,B.A,n,n,n,n,n,n,B.n,n,n,B.cD,n,new A.be(A.aH(8),B.p),n,n,n,n)))
 r.push(A.ax(n,8,n))
 s=A.aL(o.UK(B.ew,"Total RAB",A.bQ(o.dx)),1)
 p=o.fx.h(0,"persen_profit")
@@ -51392,7 +51395,7 @@ r.Ih(new A.ma(A.bq([q],!0,t.JP),t.Bf))
 r.ix(0,s.c,s.d)},
 $S:0}
 A.aAi.prototype={
-$3(a9,b0,b1){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="nama_ahsp",e="pekerjaan_subheader",d="pekerjaan_header",c="tipe",b="spec_teknis",a=4287931320,a0="status_pengerjaan",a1="Rejected",a2="Cancelled",a3=h.a,a4=a3.k1?1:0,a5=h.b,a6=A.bo(a9,g,t.w).w,a7=h.c,a8=a7.h(0,f)
+$3(a9,b0,b1){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="nama_ahsp",e="pekerjaan_subheader",d="pekerjaan_header",c="tipe",b="spec_teknis",a=4287931320,a0="status_pengerjaan",a1="Rejected",a2="Cancelled",a3=h.a,a4=a3.k1&&a3.k3?1:0,a5=h.b,a6=A.bo(a9,g,t.w).w,a7=h.c,a8=a7.h(0,f)
 if(a8==null)a8=a7.h(0,e)
 if(a8==null)a8=a7.h(0,d)
 if(a8==null)a8=""
@@ -51407,7 +51410,7 @@ if(J.d(a7.h(0,c),"Header"))p=a7.h(0,d)
 else p=J.d(a7.h(0,c),"Subheader")?a7.h(0,e):a7.h(0,f)
 o=t.p
 p=A.b([A.aL(A.I(p,2,g,g,g,A.an(g,g,B.e,g,g,g,g,g,g,g,g,g,g,g,!J.d(a7.h(0,c),"AHSP")?B.M:B.x,g,g,!0,g,g,g,B.T,g,g,g,g),g,g),1)],o)
-if(a3.k1)p.push(A.kQ(g,B.cH,new A.aAg(a7),B.j,new A.aAh(a3,a7,a9),t.N))
+if(a3.k1&&a3.k3)p.push(A.kQ(g,B.cH,new A.aAg(a7),B.j,new A.aAh(a3,a7,a9),t.N))
 p=A.aB(p,B.l,B.ad,B.f)
 if(J.d(a7.h(0,c),"AHSP")){n=a7.h(0,b)!=null?A.I("Spec Teknis",g,g,g,g,A.an(g,g,A.ak(a),g,g,g,g,g,g,g,g,11,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g):A.jO(g)
 m=a7.h(0,b)!=null?A.I(A.i(a7.h(0,b)),g,g,g,g,g,g,g):A.jO(g)
