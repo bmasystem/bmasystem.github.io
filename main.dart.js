@@ -48176,7 +48176,7 @@ p.b.J(0,"Authorization")
 return A.n(null,r)}})
 return A.o($async$Cw,r)},
 I(a){var s=this,r=null,q=t.p
-return A.bS(r,r,A.hq(A.a_(A.b([B.a4,A.b2(A.h2(B.c0,A.b([B.Hf,A.FA(0,A.bk(r,B.Mj,B.q,r,r,B.Fc,r,r,r,B.q2,r,r,r),r,r,r,0,r,r)],q),B.x,B.bg,r),r,r),B.t,B.a3X,B.a3T,B.ka,s.T6(a,A.b([s.wg(B.Lx,"Email","admin@propertysuite.com"),s.wg(B.LA,"No. Telepon","+62 812-3456-7890"),s.wg(B.Lz,"Kantor Cabang","Semarang Regional Office")],q),"Informasi Personal"),B.t,s.T6(a,A.b([s.wg(B.qI,"Level Pengguna","Super Admin / Direktur Proyek"),s.wg(B.Lv,"Izin Modifikasi","Akses Penuh Seluruh Kavling")],q),"Hak Akses & Otoritas"),B.ka,A.ah(A.cB(B.Mb,B.a4m,new A.avP(s,a),A.bH(r,r,B.l5,r,r,r,r,r,r,B.e,r,r,B.lE,r,new A.b4(A.aq(12),B.o),r,r,r,r)),r,1/0),B.D7],q),B.j,B.i,B.f),r,B.W,B.bD,r,B.Z),r,r)},
+return A.bS(r,r,A.hq(A.a_(A.b([B.a4,A.b2(A.h2(B.c0,A.b([B.Hf,A.FA(0,A.bk(r,B.Mj,B.q,r,r,B.Fc,r,r,r,B.q2,r,r,r),r,r,r,0,r,r)],q),B.x,B.bg,r),r,r),B.t,B.a3X,B.a3T,B.ka,s.T6(a,A.b([s.wg(B.Lx,"Email","admin@propertysuite.com"),s.wg(B.LA,"No. Telepon","+62 812-3456-7890"),s.wg(B.Lz,"Kantor Cabang","Semarang Regional Office")],q),"Informasi Personal"),B.t,s.T6(a,A.b([s.wg(B.qI,"Level Pengguna","Super Admin / Direktur Proyek"),s.wg(B.Lv,"Izin Modifikasi","Akses Penuh Seluruh Kavling")],q),"Hak Akses & Otoritas"),B.ka,A.ah(A.cB(B.Ma,B.a4m,new A.avP(s,a),A.bH(r,r,B.l5,r,r,r,r,r,r,B.e,r,r,B.lE,r,new A.b4(A.aq(12),B.o),r,r,r,r)),r,1/0),B.D7],q),B.j,B.i,B.f),r,B.W,B.bD,r,B.Z),r,r)},
 T6(a,b,c){var s=null,r=A.b([A.v(c,s,s,s,s,B.DM,s,s),B.cV],t.p)
 B.b.P(r,b)
 return A.dS(new A.Y(B.bD,A.a_(r,B.r,B.i,B.f),s),s,s)},
@@ -55514,7 +55514,7 @@ B.b.P(q,A.b([A.bk(n,A.v(s.h(0,m),n,n,n,n,B.a2d,n,n),B.q,n,n,new A.b1(B.ix,n,n,p,
 o=A.aq(6)
 q.push(A.bk(n,A.v(J.O(s.h(0,l)),n,n,n,n,B.fF,n,n),B.q,n,n,new A.b1(p,n,n,o,n,n,n,B.D),n,n,n,B.cN,n,n,n))
 q.push(B.fC)
-if(!J.c(s.h(0,l),"Cancelled")&&k.z)q.push(A.e8(n,B.h_,n,B.Mg,n,n,new A.aJp(k,a,s),B.L,n,n,n))
+if(!J.c(s.h(0,l),"Cancelled")&&k.z)q.push(A.e8(n,B.h_,n,B.Mf,n,n,new A.aJp(k,a,s),B.L,n,n,n))
 return A.dS(A.jo(!1,n,!0,new A.Y(B.bD,A.a_(A.b([A.ao(A.b([r,A.ao(q,B.j,B.i,B.K,n)],j),B.r,B.aa,B.f,n),B.t,A.ao(A.b([A.a_(A.b([B.a3C,A.v(J.O(s.h(0,"persentase_progress"))+" %",n,n,n,n,B.a2f,n,n)],j),B.r,B.i,B.f),B.Wc],j),B.j,B.aa,B.f,n)],j),B.r,B.i,B.f),n),n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.aJq(k,a,s),n,n,n,n,n,n,n),B.ct,B.K9)},
 $S:29}
 A.aJq.prototype={
@@ -56871,7 +56871,7 @@ if(r.ga4(s))return this.a.Dv()
 q=t.N
 p=t.z
 o=this.a
-n=A.b([A.Q(["label","Nama","value",new A.aP6()],q,p),A.Q(["label","Pemenang Tender","value",new A.aP7()],q,p),A.Q(["label","SBUJK","value",new A.aP8()],q,p),A.Q(["label","Jumlah Borongan","value",new A.aPj()],q,p),A.Q(["label","Jumlah Material","value",new A.aPu()],q,p),A.Q(["label","Jumlah Jasa","value",new A.aPw()],q,p),A.Q(["label","PPN (%)","value",new A.aPx(o)],q,p),A.Q(["label","PPh (%)","value",new A.aPy()],q,p),A.Q(["label","Jenis PPh","value",new A.aPz()],q,p),A.Q(["label","Total Kontrak","value",new A.aPA()],q,p),A.Q(["label","Total Bayar","value",new A.aPB(),"need_score",!0,"skor",new A.aP9(),"column_name","skor_total_bayar"],q,p),A.Q(["label","DP (%)","value",new A.aPa(),"need_score",!0,"skor",new A.aPb(),"column_name","skor_dp"],q,p),A.Q(["label","Termin","value",new A.aPc(),"need_score",!0,"skor",new A.aPd(),"column_name","skor_termin"],q,p),A.Q(["label","Retensi (%)","value",new A.aPe(),"need_score",!0,"skor",new A.aPf(),"column_name","retensi"],q,p),A.Q(["label","Est. Mulai","value",new A.aPg(),"need_score",!0,"skor",new A.aPh(),"column_name","skor_tanggal_mulai"],q,p),A.Q(["label","Est. Selesai","value",new A.aPi(),"need_score",!0,"skor",new A.aPk(),"column_name","skor_tanggal_selesai"],q,p),A.Q(["label","Lama Pekerjaan","value",new A.aPl()],q,p),A.Q(["label","Masa Pemeliharaan","value",new A.aPm(),"need_score",!0,"skor",new A.aPn(),"column_name","skor_masa_pemeliharaan"],q,p),A.Q(["label","Kualifikasi Kontraktor","value",new A.aPo()],q,p),A.Q(["is_long_text",!0,"label","Referensi Pekerjaan","value",new A.aPp(),"need_score",!0,"skor",new A.aPq(),"column_name","skor_referensi"],q,p),A.Q(["label","Referensi Personal","value",new A.aPr()],q,p),A.Q(["is_long_text",!0,"label","Uraian & Spesifikasi Pekerjaan","value",new A.aPs()],q,p),A.Q(["label","Aksi","isAction",!0],q,p)],t.Y)
+n=A.b([A.Q(["label","Nama","value",new A.aP6()],q,p),A.Q(["label","Pemenang Tender","value",new A.aP7()],q,p),A.Q(["label","SBUJK","value",new A.aP8()],q,p),A.Q(["label","Jumlah Borongan","value",new A.aPj()],q,p),A.Q(["label","Jumlah Material","value",new A.aPu()],q,p),A.Q(["label","Jumlah Jasa","value",new A.aPw()],q,p),A.Q(["label","PPN (%)","value",new A.aPx(o)],q,p),A.Q(["label","PPh (%)","value",new A.aPy()],q,p),A.Q(["label","Jenis PPh","value",new A.aPz()],q,p),A.Q(["label","Total Kontrak","value",new A.aPA()],q,p),A.Q(["label","Total Bayar","value",new A.aPB(),"need_score",!0,"skor",new A.aP9(),"column_name","skor_total_bayar"],q,p),A.Q(["label","DP (%)","value",new A.aPa(),"need_score",!0,"skor",new A.aPb(),"column_name","skor_dp"],q,p),A.Q(["label","Termin","value",new A.aPc(),"need_score",!0,"skor",new A.aPd(),"column_name","skor_termin"],q,p),A.Q(["label","Retensi (%)","value",new A.aPe(),"need_score",!0,"skor",new A.aPf(),"column_name","retensi"],q,p),A.Q(["label","Est. Mulai","value",new A.aPg(),"need_score",!0,"skor",new A.aPh(),"column_name","skor_tanggal_mulai"],q,p),A.Q(["label","Est. Selesai","value",new A.aPi()],q,p),A.Q(["label","Lama Pekerjaan","value",new A.aPk(),"need_score",!0,"skor",new A.aPl(),"column_name","skor_lama_pekerjaan"],q,p),A.Q(["label","Masa Pemeliharaan","value",new A.aPm(),"need_score",!0,"skor",new A.aPn(),"column_name","skor_masa_pemeliharaan"],q,p),A.Q(["label","Kualifikasi Kontraktor","value",new A.aPo()],q,p),A.Q(["is_long_text",!0,"label","Referensi Pekerjaan","value",new A.aPp(),"need_score",!0,"skor",new A.aPq(),"column_name","skor_referensi"],q,p),A.Q(["label","Referensi Personal","value",new A.aPr()],q,p),A.Q(["is_long_text",!0,"label","Uraian & Spesifikasi Pekerjaan","value",new A.aPs()],q,p),A.Q(["label","Aksi","isAction",!0],q,p)],t.Y)
 p=A.K(a).axc(B.bn)
 q=r.gC(s)
 m=A.b([B.Jl],t.UR)
@@ -56962,12 +56962,12 @@ s=s==null?null:J.O(s)
 return s==null?"-":s},
 $S:19}
 A.aPk.prototype={
-$1(a){var s=a.h(0,"skor_tanggal_selesai")
-return s==null?0:s},
-$S:57}
-A.aPl.prototype={
 $1(a){return A.a5R(a.h(0,"tanggal_mulai"),a.h(0,"tanggal_selesai"))},
 $S:19}
+A.aPl.prototype={
+$1(a){var s=a.h(0,"skor_lama_pekerjaan")
+return s==null?0:s},
+$S:57}
 A.aPm.prototype={
 $1(a){var s,r=a.h(0,"lama_masa_pemeliharaan")
 r=A.i(r==null?0:r)
@@ -57020,7 +57020,7 @@ o=t.p
 p=A.b([p],o)
 if(q){n=m.a
 n=n.cy&&J.c(n.f.h(0,l),"Tender")}else n=!1
-if(n)B.b.P(p,A.b([A.e8(k,B.h_,k,B.Ma,k,k,new A.aP4(m.a,h,a),B.lG,k,k,"Beri Skor"),A.v(J.O(h.h(0,"skor").$1(a)),k,k,k,k,k,k,k)],o))
+if(n)B.b.P(p,A.b([A.e8(k,B.h_,k,B.Mg,k,k,new A.aP4(m.a,h,a),B.lG,k,k,"Beri Skor"),A.v(J.O(h.h(0,"skor").$1(a)),k,k,k,k,k,k,k)],o))
 return A.aW8(A.ao(p,B.j,B.i,B.f,k))},
 $S:462}
 A.aP3.prototype={
@@ -117565,8 +117565,8 @@ B.M8=new A.b6(B.qE,null,B.y,null,null)
 B.bn=new A.B(1,0.2,0.2549019607843137,0.3333333333333333,B.k)
 B.Hb=new A.hb(B.M8,B.bn,null,null)
 B.qC=new A.bl(58152,!1)
-B.Mf=new A.b6(B.qC,null,B.y,null,null)
-B.Hc=new A.hb(B.Mf,B.bn,null,null)
+B.Me=new A.b6(B.qC,null,B.y,null,null)
+B.Hc=new A.hb(B.Me,B.bn,null,null)
 B.qK=new A.bl(59059,!1)
 B.Mr=new A.b6(B.qK,null,B.y,null,null)
 B.Hd=new A.hb(B.Mr,B.bn,null,null)
@@ -118135,13 +118135,13 @@ B.cl=new A.b6(B.f9,16,null,null,null)
 B.m1=new A.bl(57695,!0)
 B.M1=new A.b6(B.m1,null,null,null,null)
 B.qX=new A.b6(B.jd,null,null,null,null)
-B.Lt=new A.bl(58877,!1)
-B.Ma=new A.b6(B.Lt,18,B.y,null,null)
 B.qY=new A.b6(B.hp,16,B.e,null,null)
 B.Lq=new A.bl(58291,!1)
-B.Mb=new A.b6(B.Lq,null,null,null,null)
+B.Ma=new A.b6(B.Lq,null,null,null,null)
 B.aJ=new A.b6(B.qH,null,B.n,null,null)
-B.Mg=new A.b6(B.jg,22,B.l5,null,null)
+B.Mf=new A.b6(B.jg,22,B.l5,null,null)
+B.Lt=new A.bl(58873,!1)
+B.Mg=new A.b6(B.Lt,18,B.y,null,null)
 B.Li=new A.bl(57648,!1)
 B.Mj=new A.b6(B.Li,18,B.n,null,null)
 B.Mk=new A.b6(B.f9,null,null,null,null)
@@ -118387,12 +118387,12 @@ B.PL=A.b(s([B.KT,B.KU]),A.aK("G<rO>"))
 B.Ey=new A.iG("",6,"userDeleted")
 B.rm=A.b(s([B.eM,B.fW,B.fX,B.eN,B.fY,B.oh,B.Ey,B.og]),A.aK("G<iG>"))
 B.qM=new A.bl(61345,!1)
-B.Me=new A.b6(B.qM,null,null,null,null)
+B.Md=new A.b6(B.qM,null,null,null,null)
 B.qy=new A.bl(57777,!1)
 B.LL=new A.b6(B.qy,null,null,null,null)
 B.dY=new A.u(!0,B.a0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a3r=new A.ab("Dashboard",null,B.dY,null,null,null,null,null,null,null)
-B.Tv=new A.nb(B.Me,B.LL,B.a3r)
+B.Tv=new A.nb(B.Md,B.LL,B.a3r)
 B.qL=new A.bl(61044,!1)
 B.LY=new A.b6(B.qL,null,null,null,null)
 B.qw=new A.bl(57475,!1)
@@ -118439,10 +118439,10 @@ B.qB=new A.bl(58135,!1)
 B.LW=new A.b6(B.qB,null,B.y,null,null)
 B.Tq=new A.na(B.MA,B.LW,"Proyek",null)
 B.qP=new A.bl(61586,!1)
-B.Md=new A.b6(B.qP,null,B.bs,null,null)
+B.Mc=new A.b6(B.qP,null,B.bs,null,null)
 B.qz=new A.bl(58021,!1)
 B.M3=new A.b6(B.qz,null,B.y,null,null)
-B.Tr=new A.na(B.Md,B.M3,"Master",null)
+B.Tr=new A.na(B.Mc,B.M3,"Master",null)
 B.xE=new A.na(B.oX,B.oY,"Akun",null)
 B.Q_=A.b(s([B.Tq,B.Tr,B.xE]),t.p)
 B.EL=new A.OL(2,"outer")
@@ -119736,9 +119736,9 @@ B.Vx=new A.xC(1,"scroll")
 B.Vy=new A.xC(3,"scale")
 B.Vz=new A.xC(4,"unknown")
 B.LD=new A.bl(984319,!1)
-B.Mc=new A.b6(B.LD,20,B.bR,null,null)
+B.Mb=new A.b6(B.LD,20,B.bR,null,null)
 B.a3J=new A.ab("Import Data",null,null,null,null,null,null,null,null,null)
-B.OI=new A.h_(B.Mc,B.a3J,null,null,!1,null,null,null,null,B.L,!0,null,null,!1,null,!1,null,null,null,null,!0,null)
+B.OI=new A.h_(B.Mb,B.a3J,null,null,!1,null,null,null,null,B.L,!0,null,null,!1,null,!1,null,null,null,null,!0,null)
 B.VA=new A.fl("import_data",B.OI,null,t.wI)
 B.Mh=new A.b6(B.jm,20,B.y,null,null)
 B.DQ=new A.ab("Edit",null,null,null,null,null,null,null,null,null)
